@@ -1,0 +1,74 @@
+ 
+.feedback-container {
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+
+.feedback-card {
+  background-color: #f1f5f9;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 40px 30px;
+  max-width: 500px;
+  width: 100%;
+  text-align: center;
+}
+
+.feedback-question {
+  font-size: 24px;
+  color: #0f172a;
+  margin-bottom: 30px;
+  line-height: 1.5;
+}
+
+.emotes-list {
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  list-style-type: none;
+  margin: 0;
+}
+
+/* ThankYou.css */
+
+.thankyou-container {
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+
+.thankyou-card {
+  background-color: #f1f5f9;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 40px 30px;
+  max-width: 500px;
+  width: 100%;
+  text-align: center;
+}
+
+.thankyou-img {
+  width: 70px;
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.thankyou-message {
+  font-size: 20px;
+  color: #0f172a;
+  margin-bottom: 10px;
+}
+
+.thankyou-text {
+  font-size: 16px;
+  color: #1e293b;
+}
